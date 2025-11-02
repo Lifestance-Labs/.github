@@ -22,6 +22,8 @@
 
 ## 🏗️ Architecture
 
+Detailed architecture: https://miro.com/welcomeonboard/VW5SUEUvQURNRS94Mm13V1QvZWtVbzJhTWI4NURlY3MvdGFRNWNDOEtra0cwSi8rYmVFQWVOdjBHdjhicVA3akN6SXFKU05Ub21ZQUFheEpyMThiMjBnVFVzOGY3enowbWZaaDJQU2xYZDJJQVpPZzJPZXR6WWxwMVVmcFFRZGRBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=537541668747
+
 [GymApp] is built with enterprise-grade architecture patterns, ensuring scalability, maintainability, and testability.
 
 ### Clean Architecture Layers
