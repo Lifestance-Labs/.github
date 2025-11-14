@@ -1,4 +1,4 @@
-# 🏋️ [GymApp]
+# 🏋️ Atlas
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.21-blue.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
 [![KMP](https://img.shields.io/badge/Kotlin-Multiplatform-blue.svg?style=flat&logo=kotlin)](https://kotlinlang.org/docs/multiplatform.html)
@@ -8,7 +8,7 @@
 
 ## 📱 What is it all about?
 
-[GymApp] is a modern, cross-platform mobile application designed for gym enthusiasts who want complete control over their training journey. Built with Kotlin Multiplatform, it delivers a native experience on both Android and iOS while maintaining a single, robust codebase.
+Atlas is a modern, cross-platform mobile application designed for gym enthusiasts who want complete control over their training journey. Built with Kotlin Multiplatform, it delivers a native experience on both Android and iOS while maintaining a single, robust codebase.
 
 ### 🎯 Core Features
 
@@ -24,7 +24,7 @@
 
 Detailed architecture: https://miro.com/welcomeonboard/VW5SUEUvQURNRS94Mm13V1QvZWtVbzJhTWI4NURlY3MvdGFRNWNDOEtra0cwSi8rYmVFQWVOdjBHdjhicVA3akN6SXFKU05Ub21ZQUFheEpyMThiMjBnVFVzOGY3enowbWZaaDJQU2xYZDJJQVpPZzJPZXR6WWxwMVVmcFFRZGRBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=537541668747
 
-[GymApp] is built with enterprise-grade architecture patterns, ensuring scalability, maintainability, and testability.
+Atlas is built with enterprise-grade architecture patterns, ensuring scalability, maintainability, and testability.
 
 ### Clean Architecture Layers
 
