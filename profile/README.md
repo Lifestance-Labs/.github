@@ -151,7 +151,7 @@ TBD
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Alexander Khyzhun**
 - GitHub: [@khyzhun](https://github.com/khyzhun)
 - LinkedIn: [Alexander Khyzhun](https://linkedin.com/in/khyzhun)
 
